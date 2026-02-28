@@ -8,6 +8,12 @@ Instructions for an agent that can use the terminal (e.g. `curl`) to talk to the
 
 YOUR ID AND API TOKEN ARE: 8ee6dc14-20f7-439b-9dc2-71b0d15dbc25
 
+
+BASE URL is: https://akshathnag06--main-py-web-app-dev.modal.run/
+
+
+
+
 ## Overview
 
 - The backend is a **FastAPI** app deployed on **Modal**.
